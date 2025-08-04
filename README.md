@@ -1,4 +1,4 @@
-# ☁️ Weather Prediction Classification
+# 🌦️ Weather Prediction Classification
 
 A machine learning project for classifying weather conditions (Rain, Sun, Fog, etc.) using real-world Seattle weather data and models like Decision Tree, KNN, and Logistic Regression.
 
